@@ -1,0 +1,1 @@
+Allows you to click throught signs and item frames
